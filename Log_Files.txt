@@ -1,0 +1,9 @@
+1.Installation of python and packages in windows.
+2. Download From This Site- https://www.python.org/downloads/
+3.Save the .exe file in the folder path where you want to doownload.
+4.You have to add the pyhton.exe to the enviromental path of your system.
+5.Install the pip dependencies from the command - |pip install requests| paste it in your command line or you can copy from the source -https://pypi.org/project/requests/
+6.Install the package called Beautifulsoup from the source - https://pypi.org/project/beautifulsoup4/ copy the command and paste it in the cmd then wait for installation or you can use the command - |pip install beautifulsoup4|.
+7.Displaying websites html source code in chrome - 1.open chrome 2.right click on your mouse 3.click on inspect
+8.Obtain HTML using beautifulsoup4.
+9.
