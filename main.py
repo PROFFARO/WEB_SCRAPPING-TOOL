@@ -165,7 +165,9 @@ while True:
         for address in addresses:
             print(address)
     elif option == 8:
-        folder_path = input("Enter the path to the folder to store the HTML content: ")
+        folder_path = input(
+            "Enter the path to the folder to store the HTML content:(e.g.: add the path without using of the double inverted comma) "
+        )
         scrape_html_content_and_store(url, folder_path)
         print("HTML content saved in the folder:", folder_path)
     elif option == 9:
