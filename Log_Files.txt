@@ -6,4 +6,3 @@
 6.Install the package called Beautifulsoup from the source - https://pypi.org/project/beautifulsoup4/ copy the command and paste it in the cmd then wait for installation or you can use the command - |pip install beautifulsoup4|.
 7.Displaying websites html source code in chrome - 1.open chrome 2.right click on your mouse 3.click on inspect
 8.Obtain HTML using beautifulsoup4.
-9.
