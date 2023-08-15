@@ -1,4 +1,4 @@
-<h1 align="center" id="title">WEB_SCRAPPING_TOOL</h1>
+<h1 align="center" id="title"><b>WEB_SCRAPPING_TOOL<b></h1>
 
 <p align="center"><img src="https://nanonets.com/blog/content/images/2023/04/Screenshot-2023-04-17-at-4.50.18-PM.png" alt="project-image"></p>
 
