@@ -42,11 +42,6 @@ pip install Beautifulsoup
 pip install pandas
 ```
 
-<p>10. Install the requirements file----&gt;</p>
-
-```
-pip install -r requirements.txt
-```
 
 <h2>🍰 Contribution Guidelines:</h2>
 
