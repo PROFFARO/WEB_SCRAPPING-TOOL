@@ -49,7 +49,7 @@ Introduction and Purpose: Provide a brief overview of the project its goals and 
 
 <h2>🛡️ License:</h2>
 
-This project is licensed under the MIT license
+This project is licensed under the GNU General Public Licensed
 
 <h2>💖Like my work?</h2>
 
